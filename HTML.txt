@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر الملابس النسائية</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>متجر الملابس النسائية</h1>
+    </header>
+
+    <section class="products">
+        <article class="product">
+            <img src="path_to_image1.jpg" alt="منتج 1">
+            <h2>قميص نسائي عالي الجودة</h2>
+            <p>السعر: 500 ريال</p>
+            <button class="buy-btn">شراء</button>
+        </article>
+        <!-- يمكنك إضافة المزيد من المنتجات هنا -->
+    </section>
+
+    <footer>
+        <p>حقوق النشر © 2023</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
